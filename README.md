@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishuboi07&label=Profile%20views&color=0e75b6&style=flat" alt="ishuboi07" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/agarwalishaan7" target="blank"><img src="https://img.shields.io/twitter/follow/agarwalishaan7?logo=twitter&style=for-the-badge" alt="agarwalishaan7" /></a> </p>
 
-- 🔭 I’m currently working on [SocioCurrents](sociocurrents.com)
+- 🔭 I’m currently working on [Sociocurrents](https://github.com/Ishuboi07/sociocurrents.com)
 
 - 🌱 I’m currently learning **NextJS**
 
