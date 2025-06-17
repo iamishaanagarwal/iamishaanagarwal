@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [medcal](https://www.medcal.in/).
 
-- 🌱 I’m currently learning **RAG**
+- 🌱 I’m currently learning **LLM**
 
 - 💬 Ask me about **react, next, tailwind, typescript, node**
 
